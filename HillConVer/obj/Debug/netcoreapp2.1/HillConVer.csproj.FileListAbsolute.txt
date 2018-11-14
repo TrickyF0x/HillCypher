@@ -9,3 +9,14 @@ C:\Users\seale\source\repos\TrickyF0x\AfinnCypherRepo\HillConVer\HillConVer\bin\
 C:\Users\seale\source\repos\TrickyF0x\AfinnCypherRepo\HillConVer\HillConVer\bin\Debug\netcoreapp2.1\HillConVer.pdb
 C:\Users\seale\source\repos\TrickyF0x\AfinnCypherRepo\HillConVer\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.dll
 C:\Users\seale\source\repos\TrickyF0x\AfinnCypherRepo\HillConVer\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.pdb
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\bin\Debug\netcoreapp2.1\HillConVer.deps.json
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\bin\Debug\netcoreapp2.1\HillConVer.runtimeconfig.json
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\bin\Debug\netcoreapp2.1\HillConVer.runtimeconfig.dev.json
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\bin\Debug\netcoreapp2.1\HillConVer.dll
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\bin\Debug\netcoreapp2.1\HillConVer.pdb
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.csprojAssemblyReference.cache
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.csproj.CoreCompileInputs.cache
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.AssemblyInfoInputs.cache
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.AssemblyInfo.cs
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.dll
+C:\Users\seale\Source\Repos\HillCypher\HillConVer\obj\Debug\netcoreapp2.1\HillConVer.pdb
